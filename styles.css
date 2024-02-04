@@ -1,0 +1,31 @@
+html{
+    text-align:center;
+    background-color:#011F3F;
+}
+#level-title {
+    margin-top:100px;
+    margin-bottom:100px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    color: #FEF2BF;
+}
+.btn{
+    display:inline-block;
+    border:10px solid black;
+    height:200px;
+    width:200px;
+    border-radius:40px;
+    margin:25px;
+}
+#green{
+    background-color:green;
+}
+#yellow{
+    background-color:yellow;
+}
+#red{
+    background-color:red;
+}
+#blue{
+    background-color:blue;
+}
